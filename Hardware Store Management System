@@ -80,7 +80,7 @@ class HardwareStore:
             else:
                 print("Invalid choice. Please try again.")
 
-# Run the hardware store management system
+
 if __name__ == "__main__":
     store = HardwareStore()
     store.run()
